@@ -1,30 +1,38 @@
-# 🛒 Fake Store API
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-Uma loja virtual funcional consumindo a Fake Store API, desenvolvido com tecnologias modernas.
-
-✨ Demonstração
-Acesse a aplicação: Fake Store API Project
+# 🛍️ Fake Store API - E-commerce Frontend Project
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-brightgreen?style=for-the-badge)](https://icarox52.github.io/fakeStoreApi/)
+[![GitHub stars](https://img.shields.io/github/stars/Icarox52/fakeStoreApi?style=for-the-badge)](https://github.com/Icarox52/fakeStoreApi/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-🚀 Funcionalidades
-🔍 Catálogo completo de produtos
+![Project Preview](./assets/preview.png) <!-- Add a real screenshot path -->
 
-🛒 Sistema de carrinho de compras
+A complete e-commerce frontend application consuming the [Fake Store API](https://fakestoreapi.com/), built with modern web technologies.
 
-📦 Filtragem por categorias
+## ✨ Features
 
-🔎 Barra de pesquisa funcional
+- 🏪 **Product Catalog** - Display all available products
+- 🛒 **Shopping Cart** - Add/remove items with quantity control
+- 🗂️ **Category Filtering** - Browse by product categories
+- 🔍 **Live Search** - Find products instantly
+- 📱 **Fully Responsive** - Works on all devices
+- 💾 **Local Storage** - Persists cart between sessions
 
-📱 Design responsivo para todos os dispositivos
+## 🛠️ Tech Stack
 
-🛠️ Tecnologias Utilizadas
-Tecnologia	Descrição
-https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap	Framework CSS para design responsivo
-https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black	Lógica e interatividade da aplicação
-https://img.shields.io/badge/-HTML5-E34F26?logo=html5	Estrutura base do projeto
-https://img.shields.io/badge/-CSS3-1572B6?logo=css3	Estilização complementar
+| Technology | Purpose |
+|------------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20"/> **Bootstrap 5** | Responsive layout and components |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> **JavaScript** | Application logic and API calls |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML5** | Page structure and semantics |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS3** | Custom styling and animations |
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Modern web browser
+- (Optional) Live Server extension for VS Code
+
+### Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/Icarox52/fakeStoreApi.git
