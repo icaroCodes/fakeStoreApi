@@ -4,12 +4,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-Um e-commerce funcional consumindo a Fake Store API, desenvolvido com tecnologias modernas frontend.
+Uma loja virtual funcional consumindo a Fake Store API, desenvolvido com tecnologias modernas.
 
 ✨ Demonstração
 Acesse a aplicação: Fake Store API Project
 
-https://./assets/preview.png <!-- Adicione uma imagem real depois -->
+(Fake Store API Project)[https://icarox52.github.io/fakeStoreApi/]
 
 🚀 Funcionalidades
 🔍 Catálogo completo de produtos
