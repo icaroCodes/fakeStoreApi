@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Icarox52/fakeStoreApi?style=for-the-badge)](https://github.com/Icarox52/fakeStoreApi/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-![Project Preview](./assets/preview.png) <!-- Add a real screenshot path -->
+![Project Preview]() <!-- Add a real screenshot path -->
 
 A complete e-commerce frontend application consuming the [Fake Store API](https://fakestoreapi.com/), built with modern web technologies.
 
