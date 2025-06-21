@@ -2,7 +2,6 @@
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-brightgreen?style=for-the-badge)](https://icarox52.github.io/fakeStoreApi/)
 [![GitHub stars](https://img.shields.io/github/stars/Icarox52/fakeStoreApi?style=for-the-badge)](https://github.com/Icarox52/fakeStoreApi/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 <a href="https://icarox52.github.io/fakeStoreApi/"><img src="https://github.com/Icarox52/fakeStoreApi/blob/main/imagensreadme/fake.png"/></a>
 
