@@ -5,7 +5,7 @@
 
 <a href="https://icarox52.github.io/fakeStoreApi/"><img src="https://github.com/Icarox52/fakeStoreApi/blob/main/imagensreadme/fake.png"/></a>
 
-A complete e-commerce frontend application consuming the [Fake Store API](https://fakestoreapi.com/), built with modern web technologies.
+A full-featured eCommerce application that consumes the Fake Store API, built with modern web technologies.
 
 ## ✨ Features
 
