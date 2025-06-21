@@ -1,4 +1,4 @@
-# 🛍️ Fake Store API - E-commerce Frontend Project
+# 🛍️ Fake Store API
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-brightgreen?style=for-the-badge)](https://icarox52.github.io/fakeStoreApi/)
 [![GitHub stars](https://img.shields.io/github/stars/Icarox52/fakeStoreApi?style=for-the-badge)](https://github.com/Icarox52/fakeStoreApi/stargazers)
