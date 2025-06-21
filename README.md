@@ -9,7 +9,7 @@ Uma loja virtual funcional consumindo a Fake Store API, desenvolvido com tecnolo
 ✨ Demonstração
 Acesse a aplicação: Fake Store API Project
 
-(Fake Store API Project)[https://icarox52.github.io/fakeStoreApi/]
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-brightgreen?style=for-the-badge)](https://icarox52.github.io/fakeStoreApi/)
 
 🚀 Funcionalidades
 🔍 Catálogo completo de produtos
