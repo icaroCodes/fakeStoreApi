@@ -148,16 +148,16 @@ function carregarPorCategoria(categoria) {
     carregarProdutos(categoria);
 }
 
-// Carrega todos os produtos inicialmente
+
 carregarProdutos();
 
 
 function pesquisarProduto(event) {
-  event.preventDefault(); // evitar que a página recarregue
+  event.preventDefault();
 
   const termo = document.getElementById('inputPesquisa').value.toLowerCase().trim();
   if (!termo) {
-    carregarProdutos(); // se vazio, carrega todos
+    carregarProdutos();
     return;
   }
 
@@ -166,7 +166,6 @@ function pesquisarProduto(event) {
   fetch('https://fakestoreapi.com/products')
     .then(response => response.json())
     .then(produtos => {
-      // filtra produtos pelo título que contenha o termo
       const filtrados = produtos.filter(p => p.title.toLowerCase().includes(termo));
       exibirProdutos(filtrados);
     })
