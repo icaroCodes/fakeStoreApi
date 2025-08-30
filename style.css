@@ -187,6 +187,10 @@ body {
   overflow-y: auto;
 }
 
+#offcanvasCarrinho {
+  width: 40% !important;
+  max-width: 100%;
+}
 
 .item-carrinho {
   display: flex;
@@ -272,3 +276,4 @@ a:hover {
   width: 40% !important;
   max-width: 100%;
 }
+
