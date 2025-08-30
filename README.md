@@ -24,3 +24,7 @@ A full-featured eCommerce application that consumes the Fake Store API, built wi
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> **JavaScript** | Application logic and API calls |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML5** | Page structure and semantics |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS3** | Custom styling and animations |
+
+
+## Warning⚠️⚠️⚠️
+
