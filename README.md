@@ -28,3 +28,6 @@ A full-featured eCommerce application that consumes the Fake Store API, built wi
 
 ## Warning⚠️⚠️⚠️
 
+## I know that using inner.html is wrong and people have been fired for cause for using it,
+## but this project was for training
+## and under no circumstances would I ever use inner.html in any large project!!!
