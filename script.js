@@ -30,6 +30,10 @@ async function carregarProdutos(categoria = 'all') {
     mostrarLoader(false);
 }
 
+//I know that using inner.html is wrong and people have been fired for cause for using it,
+//but this project was for training
+//and under no circumstances would I ever use inner.html in any large project!!!
+
 function exibirProdutos(produtos) {
     lista.innerHTML = '';
 
@@ -174,3 +178,4 @@ function pesquisarProduto(event) {
     })
     .finally(() => mostrarLoader(false));
 }
+
